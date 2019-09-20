@@ -15,7 +15,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
 gem 'devise-i18n'
 gem 'bootstrap_sb_admin_base_v2'
-
+gem 'rails-assets-bootstrap', '3.3.7', source: 'https://rails-assets.org'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
