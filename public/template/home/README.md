@@ -1,28 +1,28 @@
-# [Start Bootstrap - Shop Item](https://startbootstrap.com/template-overviews/shop-item/)
+# [Start Bootstrap - Shop Homepage](https://startbootstrap.com/template-overviews/shop-homepage/)
 
-[Shop Item](http://startbootstrap.com/template-overviews/shop-item/) is a basic HTML store item template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Shop Homepage](http://startbootstrap.com/template-overviews/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview
 
-[![Shop Item Preview](https://startbootstrap.com/assets/img/templates/shop-item.jpg)](https://blackrockdigital.github.io/startbootstrap-shop-item/)
+[![Shop Homepage Preview](https://startbootstrap.com/assets/img/templates/shop-homepage.jpg)](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-shop-item/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-shop-homepage/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-shop-item/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-shop-item.svg)](https://www.npmjs.com/package/startbootstrap-shop-item)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-item.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-item)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-item?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-shop-homepage/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-shop-homepage.svg)](https://www.npmjs.com/package/startbootstrap-shop-homepage)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-homepage.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-shop-homepage)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-homepage/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-homepage)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-shop-homepage/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-shop-homepage?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/shop-item/)
-* Install via npm: `npm i startbootstrap-shop-item`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-item.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-shop-item)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/shop-homepage/)
+* Install via npm: `npm i startbootstrap-shop-homepage`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-shop-homepage.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-shop-homepage)
 
 ## Usage
 
@@ -38,7 +38,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-shop-item/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/shop-item/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/shop-homepage/).
 
 ## About
 
@@ -57,4 +57,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-shop-item/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
